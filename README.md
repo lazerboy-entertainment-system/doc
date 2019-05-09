@@ -24,3 +24,5 @@ Special thanks to Donald Vukovic from TinkerMill, for technical consulting and s
 [Project Proposal (PDF)](https://github.com/lazerboy-entertainment-system/doc/blob/master/LazerBoy_01_Proposal.pdf)
 
 [Requirements Specification (PDF)](https://github.com/lazerboy-entertainment-system/doc/blob/master/LazerBoy_02_Requirements_Specification.pdf)
+
+[Final Design Document (PDF)](https://github.com/lazerboy-entertainment-system/doc/blob/master/LazerBoy_03_Final_Design_Document.pdf)
