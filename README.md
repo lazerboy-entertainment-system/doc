@@ -17,7 +17,7 @@
 <br /><br />
 
 **By:** <br />Brian Sumner, Kamil Adylov, and Phi Huynh.
-<br /><br />
+<br />
 
 **For:** <br />CSCI 4287 - Embedded Systems Programming.
 
