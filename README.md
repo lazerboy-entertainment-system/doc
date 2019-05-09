@@ -3,7 +3,7 @@
 
 ## Demo Video:
 [![LazerBoy Entertainment System - Full Demo - LazerTarget ZL1 / LazerGun M9B2](https://img.youtube.com/vi/4LuswPReQVM/0.jpg)](https://www.youtube.com/watch?v=4LuswPReQVM "LazerBoy Entertainment System - Full Demo - LazerTarget ZL1 / LazerGun M9B2")
-#### LazerBoy Entertainment System - Full Demo - LazerTarget ZL1 / LazerGun M9B2:
+#### [LazerBoy Entertainment System - Full Demo - LazerTarget ZL1 / LazerGun M9B2](https://www.youtube.com/watch?v=4LuswPReQVM "LazerBoy Entertainment System - Full Demo - LazerTarget ZL1 / LazerGun M9B2")
 
 
 <br /><br />
